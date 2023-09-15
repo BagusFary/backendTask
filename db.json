@@ -1,0 +1,69 @@
+{
+  "brands": [
+    {
+      "id": 1,
+      "name": "Heckler and Koch",
+      "origin": "German"
+    },
+    {
+      "id": 2,
+      "name": "Pindad",
+      "origin": "Indonesia"
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "name": "Pistol"
+    },
+    {
+      "id": 2,
+      "name": "Assault Rifle"
+    }
+  ],
+
+  "firearms": [
+    {
+      "id": 1,
+      "name": "G36",
+      "typeId": 2,
+      "brandId": 1
+    },
+    {
+      "id": 2,
+      "name": "HK416",
+      "typeId": 2,
+      "brandId": 1
+    },
+    {
+      "id": 3,
+      "name": "HK433",
+      "typeId": 2,
+      "brandId": 1
+    },
+    {
+      "id": 4,
+      "name": "SFP9",
+      "typeId": 1,
+      "brandId": 1
+    },
+    {
+      "id": 5,
+      "name": "SS3",
+      "typeId": 2,
+      "brandId": 2
+    },
+    {
+      "id": 6,
+      "name": "SS2-V4",
+      "typeId": 2,
+      "brandId": 2
+    },
+    {
+      "id":7,
+      "name": "MAG4",
+      "typeId": 1,
+      "brandId": 2
+    }
+  ]
+} 
