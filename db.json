@@ -21,17 +21,10 @@
       "name": "Assault Rifle"
     }
   ],
-
   "firearms": [
     {
       "id": 1,
       "name": "G36",
-      "typeId": 2,
-      "brandId": 1
-    },
-    {
-      "id": 2,
-      "name": "HK416",
       "typeId": 2,
       "brandId": 1
     },
@@ -60,10 +53,16 @@
       "brandId": 2
     },
     {
-      "id":7,
+      "id": 7,
       "name": "MAG4",
+      "typeId": 1,
+      "brandId": 2
+    },
+    {
+      "id": 8,
+      "name": "G2 Elite",
       "typeId": 1,
       "brandId": 2
     }
   ]
-} 
+}
