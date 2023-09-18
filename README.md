@@ -3,7 +3,7 @@
 
 Bagus Fary Ananta
 PPLS 1A 
-
+Data db.json bertemakan Senjata Api
 
 # GET: ![GET](https://github.com/BagusFary/backendTask/assets/51037655/8786d899-6edd-4bab-b80c-18a85b9b4aa9)
 # POST:![POST](https://github.com/BagusFary/backendTask/assets/51037655/be45bba9-1ccb-4df9-b517-71449697d005)
