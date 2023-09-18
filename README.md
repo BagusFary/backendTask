@@ -2,7 +2,9 @@
 
 
 Bagus Fary Ananta
-PPLS 1A 
+
+
+
 
 
 Data db.json bertemakan Senjata Api
